@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi 👋🏾, I'm Gabriel Marques 
 
-<!--
-**gabrielmarques23/gabrielmarques23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**FrontEnd Developer** passionate about technology 💻. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Focused on expanding my knowledge in areas such as web development.
+- Open source project enthusiast.
+- Always looking for new opportunities to collaborate and learn from the community.
+
+  
+  🧠 I'm currently learning `React` and `Vue.js`
+
+  📫 My e-mail: gaab23.outlook@gmail.com
+
+  😄 You can call me **Gaab**
+
+  🤔 I’m looking for help with ...
+
+## 🛠 Skills
+
+- `HTML5`   - `CSS3`    - `JavaScript`
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://gabriel-marques.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-marques-5603571b4/)
+

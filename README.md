@@ -14,7 +14,7 @@
 
   😄 You can call me **Gaab**
 
-  🤔 I’m looking for help with ...
+  🤔 I’m looking for help with back-end development
 
 ## 🛠 Skills
 

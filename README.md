@@ -23,7 +23,7 @@
 <p align="left">I'm a <strong>FrontEnd Developer</strong> passionate about technology 💻. <br>
   <br>-  📍  From Brazil
   <br>- 📫 My e-mail: gaab23.outlook@gmail.com
-  <br>- 🧠 I'm currently learning <strong>`React`</strong> and <strong>`Vue.js`</strong>
+  <br>- 🧠 I'm currently learning <strong>`Java`</strong>
   <br>- ⚡ In my free time I'm studying
   <br>- 😄 You can call me <strong>Gaab</strong>
   <br>- 🤔 I’m looking for help with back-end development

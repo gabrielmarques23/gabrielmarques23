@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm a <strong>FrontEnd Developer</strong> passionate about technology 💻. <br>
+<p align="left">I'm a <strong>Full-Stack Developer</strong> passionate about technology 💻. <br>
   <br>-  📍  From Brazil
   <br>- 📫 My e-mail: gaab23.outlook@gmail.com
   <br>- 🧠 I'm currently learning <strong>`Java`</strong>
@@ -40,13 +40,14 @@
   <img width="12" />
   <img src="https://img.icons8.com/color/48/css3.png" height="60" alt="css3 logo"  />
   <img width="12" />
+  <img width="60" height="60" src="https://img.icons8.com/3d-fluency/60/java-coffee-cup-logo.png"height="60" alt="js logo"  />
+  <img width="12" />
   <img src="https://img.icons8.com/fluency/48/javascript.png" height="60" alt="js logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/nolan/64/react-native.png" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://img.icons8.com/fluency/48/node-js.png" height="60" alt="nodejs logo" />
   <img width="12" />
-</div>
 
 ###
 
@@ -67,7 +68,7 @@
 
 ## 🛠 Skills
 
-- `HTML5`   - `CSS3`    - `JavaScript`   - `UI`   - `UX`   -`NODE JS`   -`REACT NATIVE`
+- `HTML5` - `CSS3` - `Java` - `JavaScript` - `NODE JS` - `REACT NATIVE`
 
 
 
